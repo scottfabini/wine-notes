@@ -32,7 +32,7 @@ module.exports = {
       "single"
     ],
     "semi": [
-      "warning",
+      "warn",
       "always"
     ]
   }

@@ -43,7 +43,8 @@
   },
   "scripts": {
     "test:lint": "eslint . --ext .js --ext .jsx --cache",
-    "test": "karma start"
+    "test": "karma start",
+    "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base build"
   },
   "author": "Scott Fabini",
   "license": "MIT"
