@@ -1,7 +1,7 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import Logo from './components/Logo/Logo'
-require('!style!css!./style.css')
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Logo from './components/Logo/Logo';
+require('!style!css!./style.css');
 
 ReactDOM.render(
 	<h1>

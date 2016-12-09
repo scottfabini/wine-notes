@@ -1,10 +1,10 @@
-import React from 'react'
-require('!style!css!./style.css')
+import React from 'react';
+require('!style!css!./style.css');
 
 class Logo extends React.Component {
   render() {
-    return <div className="Logo" />
+    return <div className="Logo" />;
   }
 }
 
-export default Logo
+export default Logo;

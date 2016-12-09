@@ -1,34 +1,27 @@
 ## Synopsis
 
-Sandbox for working with the React library. 
-
-Configured to use:
-Webpack for build configuration and dependency management. 
-Babel for ES6 transpiling.
-ESLint for linting.
-Karma for test-running.
-Mocha for test framework.
-Chai for assert/expect-based testing.
-Sinon for stubs/mocks.
-Uglify for minification.
+An app for wine enthusiasts.
 
 ## Motivation
 
-This is an individual sandbox to facilitate using React.
+This is an individual project built using React.
 
 ## Installation
 Test:
 ```
+npm update
 npm test
 ```
 
 Build:
 ```
+npm update
 webpack
 ```
 
 Deploy:
-TBD
+TBD on how to spin-up a webserver to listen on local-host via webpack. For now, point your browser to ./build/index.html
+
 
 ## Contributors
 
